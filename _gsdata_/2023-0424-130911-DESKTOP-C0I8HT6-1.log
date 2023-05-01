@@ -1,0 +1,207 @@
+2023-04-24 13:09:13: Turning Off Copy Attributes, as one of file systems does not support it
+2023-04-24 13:09:13: Turning Off Copy Symbolic Links, as one of file systems does not support it. You may want to consider using Job -> Options -> Advanced -> Links -> Drill Down, if you need to copy folder to which the link points
+2023-04-24 13:09:13: -- Analysis Started by On File Change First Full Analyze Upon Folder Connect
+2023-04-24 13:09:13: Слева: State file does not exist: C:/Users/Admin/CypressAutomation/Javascript/_gsdata_/_file_state_v4._gs
+2023-04-24 13:09:16: Справа: State file does not exist: gdrive://www.googleapis.com/_gsdata_/_file_state_v4._gs
+2023-04-24 13:10:22: Waiting for cache by another instance of Google Drive file system.
+2023-04-24 13:11:22: Waiting for cache by another instance of Google Drive file system.
+2023-04-24 13:12:22: Waiting for cache by another instance of Google Drive file system.
+2023-04-24 13:12:44: Two items on Right side are named the same after normalization and lower-casing: '/Other/english' vs '/Other/English'
+2023-04-24 13:12:46: two items with exactly the same name: /Other/English/english words.xlsx
+2023-04-24 13:12:52: /Other/English: Sync will delete Folder /Other on Right because it is deleted on Left, File /Other/English changed on Right (Vertical Conflict)
+2023-04-24 13:12:52: /Other/Android: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1644990731_auto-optimizer-v10_3_2-build-386-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1667799221_hd-videobox-v2_31_4-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1667802705_mx-player-v1_52_1-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1669099787_cpu-z-v1_42-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1669236022_netflix-v8_50_0-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1676007856_ccleaner-v6-8-0-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1678451182_microg-youtube-premium-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/1680716178_youtube-vanced-v18_13_37-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/aida64-v1-91-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/amaze-file-manager_3.6.1.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/AnyDesk.exe: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/Auto Optimizer v1.12.0.8 [Modded].apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/ccleaner-professional-v6_6_0_build_800009567-mod.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/CCleaner_v6.1.0(800008786)+arm64.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/CCleaner_v6.1.0(800008786)+armv7a.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/clean-master-v7_5_3-mod-5mod_ru.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/com.piriform.ccleaner-5.0.0-mod-www.apkmodhere.com.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/HDrezka-app-2.1.2.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/IPTV_v.6.1.11(1103)(4.2-10.0)(arm7a).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/IPTV_v.6.1.11(2103)(4.2-10.0)(x86).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/IPTV_v.6.1.11(4103)(4.2-10.0)(x86-64).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/Kinopub_v1.28_release.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/Lampa-1.3.7.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/microg-for-ogyt-0-2-24-220220.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/microg-v0-2-25-224113.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/microG_0.2.24.220220.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/mobi.zona-2.0.24-arm7.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/mobi.zona-2.0.25.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/mobo.zona-2.0.22-arm7.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/PowerTube v5.0.3 [Premium].apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/SmartTube_Next_v16.60_beta_MOD_modded-1.com.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/torrserve_matrix.117.client-release.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/VimuMediaPlayer.ST-9.10-MD.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/VLC+3.4.2+(arm).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/VLC+3.4.2+(arm64).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/VLC+3.4.2+(x86).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/VLC+3.4.2+(x86_64).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/youTube-mod18.12.34-apkmodget.com.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/YouTube-Vanced-v17-32-38.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/YouTube_ReVanced_v17.45.34.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/Youtube_v17.45.34_mod_apkdone (1).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/Youtube_v17.45.34_mod_apkdone.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/Кино_HD_grey-3.1.1-arm7.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Android/КиноПоиск_HD_v.2.22.0(23995)(5.1-12.0)(atm7a,arm64-8a,x86,x86-64).apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Anna Udod (CL).gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Anna Udod CV.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/English/1678459593452.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/English/1678984596473.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/English/english words.xlsx: two items with exactly the same name; Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/English/new_round_up_1_student_s_book.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/English/new_round_up_2_student`s_book.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/English/Документ Microsoft Word.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/English/слова.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Pract.xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Progr.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Basic CSS.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Basic HTML & HTML 5.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Checker Plus for Gmail.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Fake Filler.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Google translater.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Grammarly.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Javascript Basics Extended.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Javascript Basics.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Lightshot.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Loom.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/Screencast-O-Matic.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/IT/Screenshots/SQL Basics.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Logic tasks.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Notes Backup (com.gcteam.tonote): Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Notes Backup (com.gcteam.tonote)/notes_backup.json: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Notes Backup (com.gcteam.tonote)/notes_backup_header.json: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Serhii Udod (CL).pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Serhii Udod (CV).pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ/02.03.2023: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ/02.03.2023/UDOD_L.D. 31043_02.03.2023_шейный_грудной.rar: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ/02.03.2023/Удод Л.Д._02.03.2023_ж_1948_р.н._гвх.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ/02.03.2023/Удод Л.Д._02.03.2023_ж_1948_р.н._швх.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ/27.02.2023: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ/27.02.2023/UDOD_L.D._30926_27.02.2023_поясничный_отдел.rar: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/Мама МРТ/27.02.2023/Удод Л.Д._27.02.2023_ж_1948_р.н._пвх.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/02.02.2023: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/02.02.2023/Bug_report_example_Log_In_Facebook.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/02.02.2023/Test-cases_Log_In_Facebook.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/03.10.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/03.10.2022/qa_test_task_001[Serhii Udod].docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/05.01.2023: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/05.01.2023/Bugreports_picks.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/05.01.2023/Test_task_picks(russian).io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/05.01.2023/Test_task_picks.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/05.01.2023/Лист Microsoft Excel 07.01.2023.xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/05.01.2023/Лист Microsoft Excel.xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/07.04.2023: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/07.04.2023/Bug_reports.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/07.04.2023/Extended bug report template[SergeyUdod].xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/07.04.2023/lucesposa.com-master.zip: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/07.04.2023/Новый документ.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/07.04.2023/Новый текстовый документ.txt: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/07.04.2023/Тестове завдання QA - Brilliant IT.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/08.10.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/08.10.2022/Тестове завдання QA [Serhii Udod].gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/08.10.2022/Тестове завдання QA [Serhii Udod].gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/13.12.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/13.12.2022/Task.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/13.12.2022/Test task for Software Solutions Inc [Serhii Udod].docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/13.12.2022/TestQA1.exe: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/Bug report - example.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/Decomposition.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/Heroku.postman_collection.json: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/Test Case.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/Test Cases.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/Test Report.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/TestTask - Test Case [Serhii Udod].gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/тест кейсы 14.12.2022.xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/14.12.2022/тест кейсы.xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/15.10.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/15.10.2022/QA_тестовое [Serhii Udod].gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/15.10.2022/www.ctrs.com.ua-1665807628913.log: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/15.10.2022/www.ctrs.com.ua-1665808185224.log: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Conduit decomposition [Sergey Udod].xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Extended bug report template[SergeyUdod].xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Mobile checklist template [Sergey Udod].xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Requirements task [Sergey Udod].docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Short bug report template realworld.vercel.app [Sergey Udod].xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Test Cases [Sergey Udod].xlsx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Test Design Techniques Basics task [Sergey Udod].docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Test Plan [Sergey Udod].docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/Test_assignment(Serhii_Udod)_02.09.2022.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/16.09.2022/User Stories task [Sergey Udod].docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/21.09.2022 Mobile testing: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/21.09.2022 Mobile testing/Test_Data_Password.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/21.09.2022 Mobile testing/Test_Data_Username.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/21.09.2022 Mobile testing/Tonti Laguna Mobile _ QA Test task _ 2020 [Serhii Udod].gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/21.09.2022 Mobile testing/XRecorder_22092022_121258.mp4: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/21.09.2022 Mobile testing/XRecorder_22092022_122535.mp4: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/21.09.2022 Mobile testing/Копия Tonti Laguna Mobile _ QA Test task _ 2020.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/23.12.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/23.12.2022/Eight tests of Eysenck.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/23.12.2022/Т1.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/23.12.2022/Т2.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/23.12.2022/Т3.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control/Bugreport_remote_control.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control/Manual QA Task RUS.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control/Manual_QA_Task_remote_control_Serhii_Udod.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control/Remote_control.gdraw: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control/Test_cases_remote_control.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control/Test_cases_remote_control_rus.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 Remote control/тест карандаша.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 игра: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 игра/Тестовое задание.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/25.01.2023 игра/логи пример.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/27.10.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/27.10.2022/Тестовое задание. QA Engineer.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/Radantservice 02.09.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/Radantservice 02.09.2022/Test assignment.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/Radantservice 02.09.2022/Test_assignment(Serhii_Udod)_02.09.2022.docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Bug_report_example.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Screenshot_1.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Screenshot_2.png: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Test-cases.io.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Безымянный.jpg: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Вакансія QA Kenner Soft Service GmbH 2022.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Новая таблица.gsheet: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Тестове_QA_v1.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/ТЕСТОВІ ЗАВДАННЯ/тестове 28.01.2023/Тестові_задачі_на_позицію_QA[Сергій_Удод].docx: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/1Cv8_10.02.2022 Безрук.cf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/1Cv8_10.02.2022 Безрук.dt: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/1Cv8_22.02.2022.cf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/1Cv8_22.02.2022.dt: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/1С.rar: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/IMG_20220615_065414.jpg: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/new_round_up_1_student_s_book.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/new_round_up_2_student`s_book.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/new_round_up_3_students_book.pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/PRRO.Check.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/PRRO.Pos.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/puzzle-english-v3-8-26-mod.apk: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/R-Studio-8.11.175351.zip: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/Копия Lesson 01_ Logic tasks.gdoc: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/Установчі документи ТОВ Алерон-Сервіс.zip: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/разное/план квартири.jpg: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/резюме 29.09.2022: Parent folder conflict propagated down to children
+2023-04-24 13:12:52: /Other/резюме 29.09.2022/Serhii Udod (CV).pdf: Parent folder conflict propagated down to children
+2023-04-24 13:12:53: Исключите конфликты выбором правильного направления синхронизации
+2023-04-24 13:12:53: Изменений: 5 207, Конфликтов: 194, Копий Времени: 0, Копий Состояния: 0, Ошибок: 2, All: 5208
+2023-04-24 13:12:53: Left to Right: Copy File: 130 Delete File: 4879 Rename/Move File/Folder: 4 
+2023-04-24 13:12:53: Conflicts (194) or Errors (2) in Analyze, waiting 30 sec for you to resolve them, before proceeding with Sync
